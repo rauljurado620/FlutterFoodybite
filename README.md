@@ -1,4 +1,4 @@
-![image](https://github.com/rauljurado620/FlutterFoodybite/assets/78367570/882220a5-8039-45dd-a446-a541dc695e28)# 🍔Foodybite [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) <a href="https://github.com/Solido/awesome-flutter"></a>
+# 🍔Foodybite
 
 Flutter representation of a Restaurant app UI i found in Uplabs. 
 **It only consists of 2 screens.**
