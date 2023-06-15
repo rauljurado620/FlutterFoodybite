@@ -1,11 +1,7 @@
-# 🍔Foodybite [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) <a href="https://github.com/Solido/awesome-flutter"><img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" /></a>
+![image](https://github.com/rauljurado620/FlutterFoodybite/assets/78367570/882220a5-8039-45dd-a446-a541dc695e28)# 🍔Foodybite [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) <a href="https://github.com/Solido/awesome-flutter"></a>
 
 Flutter representation of a Restaurant app UI i found in Uplabs. 
 **It only consists of 2 screens.**
-
-Star⭐ the repo if you like what you see😉.
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
-
 
 ## 📸 ScreenShots
 
@@ -28,7 +24,7 @@ Star⭐ the repo if you like what you see😉.
 * A brain to think 🤓🤓
 
 ## 🤓 Author(s)
-**Olusegun Festus Babajide** [![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
+[Raul Jurado](https://github.com/rauljurado620)
 
 ## Getting Started
 
